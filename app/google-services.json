@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "137282754994",
+    "firebase_url": "https://firestore-test-app-f6445.firebaseio.com",
+    "project_id": "firestore-test-app-f6445",
+    "storage_bucket": "firestore-test-app-f6445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137282754994:android:6fd6fe42216c3943",
+        "android_client_info": {
+          "package_name": "com.byteshaft.firestoredatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137282754994-qhhvv4oj67ckgg5llbc75o6ktetapfjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIuE3-Vj1L-i8p3NxN9xe6sFqpUkONUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
